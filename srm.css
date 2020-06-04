@@ -18,7 +18,7 @@ h2{
 marquee{
   color: white;
   font-size: 25px;
-  transform: translate(0, 600px);
+  transform: translate(0, 400px);
  
 }
 
@@ -248,7 +248,7 @@ label #cancel{
     height: 50%;
     width: 800px;
     margin-right: 50px;
-    margin-left: 70px;
+    margin-left: 20px;
     background-color: thistle;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font: bold;  
