@@ -248,6 +248,7 @@ label #cancel{
     height: 50%;
     width: 800px;
     margin-right: 50px;
+    margin-left: 50px;
     background-color: thistle;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font: bold;  
