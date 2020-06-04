@@ -79,7 +79,7 @@ marquee{
     top: 50%;
     left: 50%;
     padding: 50px;
-    transform: translate(100px,300px);
+    transform: translate(100px,200px);
     
     box-sizing: border-box;
     border-style: dotted;
